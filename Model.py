@@ -1,8 +1,8 @@
 from Point import Point
 from Segment import Segment
 
-X_MIN = -50
-X_MAX = 50
+X_MIN = -10
+X_MAX = 20
 Y_MIN = 0
 Y_MAX = 10
 
