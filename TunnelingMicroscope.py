@@ -5,7 +5,6 @@ import Model
 import matplotlib.pyplot as plt
 import numpy as np
 from Point import Point
-from Segment import Segment
 
 integral_inters = 1_000
 integral_d = 5
