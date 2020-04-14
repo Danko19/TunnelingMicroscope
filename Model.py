@@ -1,8 +1,10 @@
 from Point import Point
 from Segment import Segment
 
-X_MIN = -10
-X_MAX = 25
+X_MIN = -50
+X_MAX = 50
+Y_MIN = 0
+Y_MAX = 10
 
 def GetZ(x):
     if x < 0:
